@@ -118,16 +118,19 @@ body{
     margin:20px;
     margin-top:40px;
   }
+  footer{
+    margin:20px;
+  }
 
   .next{
-    position:relative;
    
+    margin:30px;
     bottom:20px;
     display: none;
   }
   .next2{
-    position:relative;
-  
+   
+   margin:30px;
     bottom:20px;
   }
 
