@@ -121,14 +121,14 @@ body{
 
   .next{
     position:relative;
-    left:70px;
-    bottom:50px;
+   
+    bottom:20px;
     display: none;
   }
   .next2{
     position:relative;
-    left:100px;
-    bottom:50px;
+  
+    bottom:20px;
   }
 
   /* contact */
