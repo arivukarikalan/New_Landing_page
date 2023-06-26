@@ -112,7 +112,7 @@ body{
 
 
   #testimonial{
-    padding:20px;
+    margin:30px;
   }
   /* pricing */
 
@@ -129,14 +129,14 @@ body{
 
   .next{
    
-    margin:50px;
-    bottom:20px;
+    position: relative;
+    margin-top:40px;
     display: none;
   }
   .next2{
    
-   margin:50px;
-    bottom:20px;
+    position: relative;
+    margin-top:40px;
   }
 
   /* contact */
@@ -150,8 +150,11 @@ body{
 
   .contact{
       
-      margin: 20px 7%;
+     
+      margin-bottom: 20px;
       padding:20px;
       background-color: #EEEEEE70;
   }
-  
+  .image{
+    margin:20px;
+  }
